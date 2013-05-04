@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  database: sphinxtamers_development
+  pool: 5
+  encoding: unicode
