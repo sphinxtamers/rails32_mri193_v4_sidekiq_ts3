@@ -15,7 +15,7 @@ gem 'ts-sidekiq-delta',
 gem 'flying-sphinx',
   :git    => 'git://github.com/flying-sphinx/flying-sphinx.git',
   :branch => 'master',
-  :ref    => '8d94436c5c'
+  :ref    => 'cf37dda2f0'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'

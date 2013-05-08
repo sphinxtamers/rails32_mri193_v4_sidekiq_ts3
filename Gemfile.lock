@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/flying-sphinx/flying-sphinx.git
-  revision: 8d94436c5c1b7bd42f57873bb81c42deeedfcb1b
-  ref: 8d94436c5c
+  revision: cf37dda2f03a0ec5d38743ab1ecf43423840c3bd
+  ref: cf37dda2f0
   branch: master
   specs:
     flying-sphinx (0.8.5)
@@ -9,7 +9,7 @@ GIT
       multi_json (>= 1.3.0)
       pusher-client (~> 0.3)
       rash (~> 0.3.0)
-      riddle (>= 1.5.5)
+      riddle (>= 1.5.6)
       thinking-sphinx
 
 GIT
