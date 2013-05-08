@@ -7,7 +7,7 @@ gem 'mysql2', '0.3.12b5'
 gem 'thinking-sphinx', '~> 3.0.2',
   :git    => 'git://github.com/pat/thinking-sphinx.git',
   :branch => 'master',
-  :ref    => '86ac3edfbe'
+  :ref    => '375de3a5eb'
 gem 'ts-sidekiq-delta',
   :git    => 'git://github.com/pat/ts-resque-delta.git',
   :branch => 'sidekiq',

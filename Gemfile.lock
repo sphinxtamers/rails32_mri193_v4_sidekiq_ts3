@@ -14,8 +14,8 @@ GIT
 
 GIT
   remote: git://github.com/pat/thinking-sphinx.git
-  revision: 86ac3edfbef248c2b2e9cadb3e89ba51827dff05
-  ref: 86ac3edfbe
+  revision: 375de3a5eb60297386f830fb1ffd613745489bde
+  ref: 375de3a5eb
   branch: master
   specs:
     thinking-sphinx (3.0.2)
@@ -23,7 +23,7 @@ GIT
       builder (>= 2.1.2)
       innertube (>= 1.0.2)
       middleware (>= 0.1.0)
-      riddle (>= 1.5.4)
+      riddle (>= 1.5.6)
 
 GIT
   remote: git://github.com/pat/ts-resque-delta.git
@@ -139,7 +139,7 @@ GEM
     redis (3.0.3)
     redis-namespace (1.2.1)
       redis (~> 3.0.0)
-    riddle (1.5.5)
+    riddle (1.5.6)
     ruby-hmac (0.4.0)
     sass (3.2.8)
     sass-rails (3.2.6)
